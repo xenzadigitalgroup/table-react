@@ -5,7 +5,7 @@ import './styles.css'; // Import file CSS
 const karyawanData = [
   {
     no: 1,
-    foto: '/Foto%20karyawan/ely.png',
+    foto: '/Foto karyawan/ely.png',
     nama: 'John Doe',
     id: 'JD001',
     gaji: 5000000,
@@ -13,7 +13,7 @@ const karyawanData = [
   },
   {
     no: 2,
-    foto: '/Foto%20karyawan/mie.jpeg',
+    foto: '/Foto karyawan/mie.jpeg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -21,7 +21,7 @@ const karyawanData = [
   },
   {
     no: 3,
-    foto: '/Foto%20karyawan/nur.jpg',
+    foto: '/Foto karyawan/nur.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -29,7 +29,7 @@ const karyawanData = [
   },
   {
     no: 4,
-    foto: '/Foto%20karyawan/yin.jpg',
+    foto: '/Foto karyawan/yin.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -37,7 +37,7 @@ const karyawanData = [
   },
   {
     no: 5,
-    foto: '/Foto%20karyawan/mie2.jpg',
+    foto: '/Foto karyawan/mie2.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -45,7 +45,7 @@ const karyawanData = [
   },
   {
     no: 6,
-    foto: '/Foto%20karyawan/ely.png',
+    foto: '/Foto karyawan/ely.png',
     nama: 'John Doe',
     id: 'JD001',
     gaji: 5000000,
@@ -53,7 +53,7 @@ const karyawanData = [
   },
   {
     no: 7,
-    foto: '/Foto%20karyawan/mie.jpeg',
+    foto: '/Foto karyawan/mie.jpeg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -61,7 +61,7 @@ const karyawanData = [
   },
   {
     no: 8,
-    foto: '/Foto%20karyawan/nur.jpg',
+    foto: '/Foto karyawan/nur.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -69,7 +69,7 @@ const karyawanData = [
   },
   {
     no: 9,
-    foto: '/Foto%20karyawan/yin.jpg',
+    foto: '/Foto karyawan/yin.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
@@ -77,7 +77,7 @@ const karyawanData = [
   },
   {
     no: 10,
-    foto: '/Foto%20karyawan/mie2.jpg',
+    foto: '/Foto karyawan/mie2.jpg',
     nama: 'Jane Smith',
     id: 'JS002',
     gaji: 6000000,
