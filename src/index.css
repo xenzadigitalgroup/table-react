@@ -1,0 +1,13 @@
+/* Styling for the App component */
+.App {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* Font family for UI Apple */
+}
+
+h1 {
+  font-weight: bold; /* Make the text bold */
+  font-size: 1rem; /* Slightly smaller font size */
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #343a40; /* Darker color for the heading */
+}

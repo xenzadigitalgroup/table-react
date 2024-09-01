@@ -1,0 +1,78 @@
+/* Styling for the table container */
+.table-container {
+    margin: 20px auto;
+    max-width: 1200px; /* Maximum width of the table */
+    padding: 20px;
+    background-color: #ffffff; /* White background for the table container */
+    border-radius: 8px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  }
+  
+  /* Styling for the table */
+  .table-auto {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: -20px;
+  }
+  
+  .table-auto th, .table-auto td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6; /* Light border for table rows */
+  }
+  
+  .table-auto th {
+    background-color: #e9ecef; /* Light background for table headers */
+    font-weight: bold;
+  }
+  
+  .table-auto tr:nth-child(even) {
+    background-color: #f8f9fa; /* Alternating row background colors */
+  }
+  
+/* Styling for the employee photos */
+.photo {
+    width: 50px; /* Set width to 50 pixels */
+    height: 50px; /* Set height to 50 pixels */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    border-radius: 50%; /* Optional: make the image circular */
+  }
+
+  
+/* Styling for the Navbar */
+.custom-navbar {
+    border-bottom: 2px solid #343a40; /* Add a bottom border to the navbar */
+  }
+  
+  .custom-navbar .brand-left {
+    font-size: 1.5rem; /* Increase font size for the brand */
+    font-weight: bold; /* Make the brand name bold */
+  }
+  
+  .custom-navbar .nav-link {
+    font-size: 1.2rem; /* Increase font size for nav links */
+    margin-left: 20px; /* Add space between nav links */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #f8f9fa !important; /* Change color on hover */
+    background-color: rgba(0, 0, 0, 0.3); /* Add a background color on hover */
+    border-radius: 5px; /* Rounded corners for button effect */
+    padding: 8px 16px; /* Padding for button effect */
+  }
+  
+  /* Styling for the button-like link */
+  .button-link {
+    background-color: #007bff; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: 1px solid transparent; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 8px 16px; /* Padding for button effect */
+  }
+  
+  .button-link:hover {
+    background-color: #0056b3; /* Darker background on hover */
+    color: #ffffff; /* Ensure text color remains white */
+  }
+  
